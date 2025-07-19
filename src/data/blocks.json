@@ -1,0 +1,149 @@
+[
+  {
+    "id": "rancho-don-enrique-block-1",
+    "ranchId": "ranch-don-enrique",
+    "name": "Block 1",
+    "blockNumber": 1,
+    "area": 32.5,
+    "cropType": "avocado",
+    "plantingDate": "1990-04-15",
+    "lastHarvest": "2023-11-20",
+    "soilType": "Sandy loam",
+    "irrigationType": "drip",
+    "coordinates": {
+      "points": [
+        {"x": 50, "y": 50},
+        {"x": 200, "y": 50},
+        {"x": 200, "y": 150},
+        {"x": 50, "y": 150}
+      ],
+      "center": {"x": 125, "y": 100},
+      "boundingBox": {
+        "minX": 50,
+        "maxX": 200,
+        "minY": 50,
+        "maxY": 150
+      }
+    },
+    "metadata": {
+      "trees": 850,
+      "variety": "Hass",
+      "rootstock": "Duke 7",
+      "spacing": "20x15 feet",
+      "notes": "Mature block with consistent production. Some replanting needed in southwest corner."
+    },
+    "status": "active",
+    "createdAt": "2023-01-01T00:00:00Z",
+    "updatedAt": "2023-11-20T10:30:00Z"
+  },
+  {
+    "id": "rancho-don-enrique-block-2",
+    "ranchId": "ranch-don-enrique",
+    "name": "Block 2",
+    "blockNumber": 2,
+    "area": 28.3,
+    "cropType": "avocado",
+    "plantingDate": "1992-03-10",
+    "lastHarvest": "2023-11-15",
+    "soilType": "Clay loam",
+    "irrigationType": "drip",
+    "coordinates": {
+      "points": [
+        {"x": 220, "y": 50},
+        {"x": 350, "y": 50},
+        {"x": 350, "y": 140},
+        {"x": 220, "y": 140}
+      ],
+      "center": {"x": 285, "y": 95},
+      "boundingBox": {
+        "minX": 220,
+        "maxX": 350,
+        "minY": 50,
+        "maxY": 140
+      }
+    },
+    "metadata": {
+      "trees": 720,
+      "variety": "Hass",
+      "rootstock": "Duke 7",
+      "spacing": "20x15 feet",
+      "notes": "Good drainage, excellent production zone."
+    },
+    "status": "active",
+    "createdAt": "2023-01-01T00:00:00Z",
+    "updatedAt": "2023-11-15T14:20:00Z"
+  },
+  {
+    "id": "rancho-don-enrique-block-3",
+    "ranchId": "ranch-don-enrique",
+    "name": "Block 3",
+    "blockNumber": 3,
+    "area": 35.2,
+    "cropType": "avocado",
+    "plantingDate": "1988-02-20",
+    "lastHarvest": "2023-10-30",
+    "soilType": "Sandy clay loam",
+    "irrigationType": "drip",
+    "coordinates": {
+      "points": [
+        {"x": 50, "y": 170},
+        {"x": 250, "y": 170},
+        {"x": 250, "y": 280},
+        {"x": 50, "y": 280}
+      ],
+      "center": {"x": 150, "y": 225},
+      "boundingBox": {
+        "minX": 50,
+        "maxX": 250,
+        "minY": 170,
+        "maxY": 280
+      }
+    },
+    "metadata": {
+      "trees": 950,
+      "variety": "Hass",
+      "rootstock": "Toro Canyon",
+      "spacing": "18x15 feet",
+      "notes": "Older trees, high yield. Recently upgraded irrigation system."
+    },
+    "status": "active",
+    "createdAt": "2023-01-01T00:00:00Z",
+    "updatedAt": "2023-10-30T16:45:00Z"
+  },
+  {
+    "id": "rancho-don-enrique-block-4",
+    "ranchId": "ranch-don-enrique",
+    "name": "Block 4",
+    "blockNumber": 4,
+    "area": 29.5,
+    "cropType": "avocado",
+    "plantingDate": "2018-09-05",
+    "soilType": "Sandy loam",
+    "irrigationType": "drip",
+    "coordinates": {
+      "points": [
+        {"x": 270, "y": 160},
+        {"x": 400, "y": 160},
+        {"x": 400, "y": 260},
+        {"x": 270, "y": 260}
+      ],
+      "center": {"x": 335, "y": 210},
+      "boundingBox": {
+        "minX": 270,
+        "maxX": 400,
+        "minY": 160,
+        "maxY": 260
+      }
+    },
+    "metadata": {
+      "trees": 680,
+      "variety": "Hass",
+      "rootstock": "Duke 7",
+      "spacing": "20x16 feet",
+      "notes": "Young trees, first harvest expected 2024. Excellent soil preparation."
+    },
+    "status": "active",
+    "createdAt": "2023-01-01T00:00:00Z",
+    "updatedAt": "2023-12-01T09:15:00Z"
+  }
+]

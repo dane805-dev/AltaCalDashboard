@@ -1,0 +1,28 @@
+[
+  {
+    "id": "ranch-don-enrique",
+    "name": "Rancho Don Enrique",
+    "slug": "rancho-don-enrique",
+    "location": {
+      "lat": 33.2034,
+      "lng": -117.3803
+    },
+    "totalArea": 125.5,
+    "establishedDate": "1987-03-15",
+    "description": "Primary avocado ranch focused on Hass variety production with drip irrigation systems.",
+    "isActive": true
+  },
+  {
+    "id": "ranch-santa-teresa",
+    "name": "Rancho Santa Teresa",
+    "slug": "rancho-santa-teresa",
+    "location": {
+      "lat": 33.1934,
+      "lng": -117.3703
+    },
+    "totalArea": 98.2,
+    "establishedDate": "1992-08-22",
+    "description": "Secondary ranch for expansion - currently in planning phase.",
+    "isActive": false
+  }
+]
